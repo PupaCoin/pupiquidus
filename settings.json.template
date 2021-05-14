@@ -37,7 +37,7 @@
     "password": "3xp!0reR",
     "database": "explorerdb",
     "address": "localhost",
-    "port": 20083
+    "port": 27017
   },
 
   //update script settings
@@ -47,7 +47,7 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 19697,
+    "port": 20083,
     "user": "pupacoinrpc",
     "pass": "SomeOtherWorldlyPasswordGoesHere1"
   },
